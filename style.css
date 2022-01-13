@@ -1,0 +1,18 @@
+body {
+    background-color: plum;
+    color: lightsalmon;
+}
+.heading {
+    width: 90%;
+    font-size: medium;
+}
+
+#camera{
+    border: 2px dotted firebrick;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: lightskyblue;
+}
